@@ -14,7 +14,7 @@ NautilusDesktopWindow GtkWidget {
 
 /* desktop mode */
 .nautilus-desktop.nautilus-canvas-item {
-    color: @bg_color;
+    color: @fg_color;
     text-shadow: 1px 1px alpha (#000000, 0.8);
 }
 
